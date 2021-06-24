@@ -1,0 +1,11 @@
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.Form1.resources
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.Properties.Resources.resources
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.csproj.GenerateResource.Cache
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\bin\Debug\teclaenter.exe
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\bin\Debug\teclaenter.pdb
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.exe
+F:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.pdb
+D:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.exe
+D:\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.pdb
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.exe
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\teclaenter\teclaenter\obj\x86\Debug\teclaenter.pdb
